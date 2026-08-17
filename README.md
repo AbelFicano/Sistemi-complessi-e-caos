@@ -1,3 +1,3 @@
 # Complex systems and chaos
 
-Codes for a lecture on complex systems and chaos I gave while I was at secondary school.
+Codes for a lecture on complex systems and chaos.
